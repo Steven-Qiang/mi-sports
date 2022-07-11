@@ -1,0 +1,15 @@
+[
+    {
+        "username": "小米运动用户名",
+        "password": "小米运动密码",
+        "step_range": {
+            "enable": true,
+            "start": 20000,
+            "end": 30000
+        },
+        "step_fixed": {
+            "enable": false,
+            "number": 25000
+        }
+    }
+]

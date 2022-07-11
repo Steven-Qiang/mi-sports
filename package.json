@@ -2,8 +2,9 @@
   "name": "mi-sports",
   "private": true,
   "scripts": {
-    "start": "node app"
+    "start": "node ."
   },
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/qiangmouren/mi-sports"
